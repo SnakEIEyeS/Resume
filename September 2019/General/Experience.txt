@@ -1,0 +1,21 @@
+Sony Interactive Entertainment, Santa Monica Studio
+
+Worked on an unannounced AAA title. Mainly responsible for working on Animation & Combat systems.
+Languages used - C++, C#, Lua
+
+- Implemented a root-motion related animation tool feature to make viewing animations in game more convenient.
+- Improved a combat collision system to perform more accurate shape intersection tests to better support designers’ vision.
+- Optimized a fact-checking system to keep certain types of fact buckets pre-sorted and sort other fact buckets only when necessary which saved 0.2 - 0.3 ms of frame time.
+- Fixed bugs related to animation and combat systems.
+
+
+Actually A Game Company
+
+Worked on Hard Light Vector, an action-adventure FPS game that we released on Steam in March 2019 and have supported after release. Mainly responsible for player-side gameplay mechanics, UI & HUD.
+Languages used - C++, UE4 Blueprints
+
+- Implemented an action-elements system to control VFX and screen effects for flair & feedback based on player state.
+- Implemented & iterated on the player character’s ‘Thrusters’ that give a small upward boost when you are in-air.
+- Worked on an interaction system to indicate and handle interacting with interactable elements near the player.
+- Implemented the HUD and various UI elements to achieve a sci-fi feel and power fantasy.
+- Contributed to player-side design to create a unique character and resonating abilities that make you feel fast and fierce.
