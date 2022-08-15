@@ -1,0 +1,5 @@
+Rent - GBP 1200
+Food & Living - 800 + 200 buffer
+loan - 1000
+ 
+= 3200 required

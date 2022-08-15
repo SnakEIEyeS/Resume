@@ -1,0 +1,63 @@
+
+Gameplay Programmer [Unannounced Project] (386)
+Job Description
+
+Ubisoft Leamington has been a member of the Ubisoft family since January 2017 and has collaborated on Tom Clancy’s The Division® & The Division 2®, Far Cry 5® and Starlink: Battle For Atlas®. Currently comprised of a 90-strong team, the studio is a solid and experienced group supported by a mix of veteran developers and promising young talent. Based in Royal Leamington Spa, Ubisoft Leamington is at the heart of a thriving destination for UK game developers.
+
+Responsibilities
+
+    Implement gameplay systems, and player interactions in close collaboration with designers to ensure player comfort;
+    Use prototyping techniques to demonstrate the validity of a gameplay idea;
+    Work as a key part of an agile development team, organising and planning the implementation of features with direction from their lead, and assist less experienced programmers;
+    Use practical solutions to implement feature requests, taking into account performance, maintainability and resource usage;
+    Ensure coding standards are followed in their own and others code;
+    Collect, interpret and analyse the technical feasibility of system/feature specifications;
+    Write clear and well-structured code using the appropriate data structure and algorithms while bearing in mind performance, maintenance and architectural requirements;
+    Include comments in the code and document implemented features;
+    Demonstrate an understanding of the basics of load testing and game feature testing and write test code;
+    Stay up-to-date with technology advances within the field;
+    Perform code reviews for peers;
+    Extract and interpret relevant runtime system resource information (disk IO, network, CPU, memory, etc).
+
+Qualifications
+
+Skills and Knowledge
+
+    Good understanding of gameplay technology, and can use technical knowledge in various areas such as mathematics, physics, animation, online, artificial intelligence to implement gameplay features, and believable behaviours;
+    Ability to work in an iterative environment with game designers to quickly prototype gameplay features;
+    Knowledge of gameplay scripting languages;
+    Very good C/C++ programming skills, with very good knowledge of object oriented development including design patterns and UML;
+    Experience working with a large game codebase, and it's modules, middleware and associated pipeline;
+    Understanding of speed and memory considerations, and able to implement basic optimisations;
+    Knowledge of common algorithms, data structures and patterns, and their application;
+    Ability to analyse unfamiliar code of a reasonable complexity to understand, extend and refactor an existing module;
+    Ability to debug defects of a reasonable complexity, including memory related issues, and multi-threading;
+    Knowledge of different software development methods such as Test Driven Development, Unit Testing, Agile etc.;
+    Understanding the constraints and technical requirements for console platform development within their area is a plus;
+    Ability to adapt to change;
+    Good interpersonal and communication skills.
+
+Relevant Experience
+
+    Bachelor’s degree in computer science or computer engineering or equivalent experience;
+    3 years commercial software development experience with significant involvement in 1 published game in a relevant programming capacity is a plus;
+    Experience working with at least one modern console platform is an advantage;
+    Experience with profiling tools is desirable;
+    Experience working in a multi-site collaboration environment is a plus.
+
+ 
+Additional Information
+
+Benefits & Relocation
+
+Flexible working, 22 days annual leave + Christmas shutdown, private healthcare (with option to add immediate family), life insurance & income protection, workplace pension scheme, paid volunteering days, annual fitness & well-being allowance, games, technology & merchandise, subsidised travel and many more... 
+
+Relocation assistance is available to anyone currently living 50 miles or more from the studio location. Please contact a member of the talent acquisition team to find out what we have to offer and how we can support with your move here... relocation really doesn't have to be a daunting prospect. 
+
+Find out more about Ubisoft Leamington: https://reflections.ubisoft.com/about/ubisoft-leamington/
+
+Facebook: https://www.facebook.com/Ubisoft.Leamington
+
+Twitter: https://twitter.com/ubileam
+
+Ubisoft Reflections & Ubisoft Leamington is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

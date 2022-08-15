@@ -1,0 +1,8 @@
+1400 	- Rent (min 1300)
+800	- Food, util, living
+1000	- loan
+
+Bare min - 3200 per month = 4340 pm , 52k per year
+150 savings - 3350 pm = 4600 pm , 55250 per year
+300 savings - 3500 pm = 4900 pm , 58400 py
+500 savings - 3700 pm = 5220 pm , 62650 py
